@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-note-me",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Productivity", "Data & Storage"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.qrdyai.com/noteme/n8n-integration"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.qrdyai.com/noteme/getting-started"
+			}
+		]
+	}
+}
+
