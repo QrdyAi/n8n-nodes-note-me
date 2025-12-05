@@ -3,7 +3,7 @@
     "version": "0.1.2",
     "description": "n8n community node for NoteMe - automate note creation and reminders. Capture notes from workflows, set date-time reminders, organize with tags, and sync to mobile app.",
     "license": "MIT",
-    "homepage": "https://github.com/QrdyAi/n8n-nodes-note-me",
+    "homepage": "https://noteme.qrdyai.com",
     "keywords": [
         "n8n-community-node-package",
         "noteme",
